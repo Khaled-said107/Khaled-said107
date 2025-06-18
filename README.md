@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled Said</h1>
 <h3 align="center">💻 Flutter Developer | Clean Code Lover | Firebase Wizard</h3>
 
-<p align="center">
-  <img src="" alt="Khaled Said" width="180" style="border-radius: 50%;" />
-</p>
-
 ---
 
 ## 🧠 About Me
