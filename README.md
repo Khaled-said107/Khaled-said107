@@ -2,7 +2,7 @@
 <h3 align="center">💻 Flutter Developer | Clean Code Lover | Firebase Wizard</h3>
 
 <p align="center">
-  <img src="https://github.com/Khaled-said107/Khaled-said107/blob/main/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A6%D9%A1%D9%A0_%D9%A0%D9%A1%D9%A3%D9%A3%D9%A0%D9%A1.jpg" alt="Khaled Said" width="180" style="border-radius: 50%;" />
+  <img src="" alt="Khaled Said" width="180" style="border-radius: 50%;" />
 </p>
 
 ---
